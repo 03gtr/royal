@@ -1,15 +1,17 @@
-# ROYAL KITCHENS — Luxury Digital Business Card
+# ROYAL KITCHENS — Cinematic Mobile Website
 
-One-page responsive website for Royal Kitchens, Mosul.
+Concept:
+- Mobile-first cinematic scroll.
+- The page behaves like a camera moving through a luxury interior/showroom.
+- No invented project photography: architectural visuals are CSS-generated and are not presented as actual Royal Kitchens work.
+- Exact supplied Royal Kitchens logo is used.
+- Scenes: Entrance → Kitchens → Furniture → Interior → Contact → Location.
+- WhatsApp, phone, email, Instagram, Facebook and Google Maps are wired.
+- IQ GROUP credit included.
 
-- Exact supplied logo used.
-- Navy / silver luxury identity.
-- Animated loading screen with subtle silver shine.
-- WhatsApp consultation CTA.
-- Two phone numbers.
-- Email.
-- Google Maps.
-- Instagram and Facebook.
-- IQ GROUP credit.
+## Deploy
+Upload:
+- `index.html`
+- `assets/royal-kitchens-logo.jpg`
 
-Upload `index.html` and `assets/royal-kitchens-logo.jpg` to GitHub Pages.
+to the GitHub Pages repository root.
